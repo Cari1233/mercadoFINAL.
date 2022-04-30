@@ -1,0 +1,23 @@
+h1 {
+  color: red;
+  text-align: center;
+  font-size: 40px;
+  font-family: cursive;
+}
+p {
+  margin: auto;
+}
+.divProductos {
+  width: 1200px;
+  height: 80px;
+  display: flex;
+  justify-content: space-around;
+  border: 2px solid grey;
+  margin: 75px 75px;
+}
+input {
+  margin: auto;
+}
+body {
+  background-image: url("img/fond.jpg");
+}
